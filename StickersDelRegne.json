@@ -1,28 +1,28 @@
 {
   "pack": {
-    "display_name": "Stickers del regne",
-    "avatar_url": "mxc://matrix.org/fcaed8ac-e9f6-4f8b-b581-1e4c52d73e26"  
+      "display_name": "Stickers del regne",
+      "avatar_url": "mxc://matrix.org/fcaed8ac-e9f6-4f8b-b581-1e4c52d73e26"
   },
   "stickers": [
-    {
-      "body": "Cuidado te saco los demonios",
-      "url": "mxc://matrix.org/9cae40dc-2707-431c-92f8-a519f7f1c0c9", 
-      "info": {
-        "mimetype": "image/webp",
-        "h": 512,
-        "w": 512,
-        "size": 12345
+      {
+          "body": "Cuidado te saco los demonios",
+          "url": "mxc://matrix.org/9cae40dc-2707-431c-92f8-a519f7f1c0c9",
+          "info": {
+              "mimetype": "image/webp",
+              "h": 512,
+              "w": 512,
+              "size": 12345
+          }
+      },
+      {
+          "body": "Sticker 2",
+          "url": "mxc://matrix.org/1e4c00d4-262c-4ed6-b128-f0177ee419ef",
+          "info": {
+              "mimetype": "image/jpeg",
+              "h": 512,
+              "w": 512,
+              "size": 12345
+          }
       }
-    },
-    {
-      "body": "Sticker 2",
-      "url": "mxc://matrix.org/1e4c00d4-262c-4ed6-b128-f0177ee419ef",  
-      "info": {
-        "mimetype": "image/jpeg",
-        "h": 512,
-        "w": 512,
-        "size": 12345
-      }
-    }
   ]
 }
